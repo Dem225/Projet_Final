@@ -1,0 +1,26 @@
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Variables secrètes
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Base de données
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
